@@ -124,9 +124,9 @@ sign_language_project/
 | ------------------- | -------------- |
 | Dataset Setup       | ✅ Done         |
 | Project Structure   | ✅ Done         |
-| Model Training      | 🚧 In Progress |
-| Real-time Inference | 🚧 In Progress |
-| Speech Output       | 🚧 In Progress |
+| Model Training      | ✅ Done         |
+| Real-time Inference | ✅ Done         |
+| Speech Output       | ✅ Done         |
 
 ---
 
